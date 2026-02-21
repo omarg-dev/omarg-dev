@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-# Systems Architect & Digital Twins Engineer
-
 Computer Science Senior specializing in systems architecture, digital twins, and AI-driven automation. Currently engineering scalable simulations and optimizing intelligent agents.
 
 ### 🔭 Current Focus

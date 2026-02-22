@@ -16,15 +16,17 @@ Here are some ideas to get you started:
 Computer Science Senior specializing in systems architecture, digital twins, and AI-driven automation. Currently engineering scalable simulations and optimizing intelligent agents.
 
 ### 🔭 Current Focus
-- 🏗️ **Logistics Digital Twin:** Rust, Simulation,  *(In active development)*
-- 🌩️ **AI**: Machine Learning, Neural Networks, Agentic Development.
-- ☁️ **Cloud Infrastructure**: self-hosted VPS, Docker, Caddy.
-- 🛠️ **KAU Tech Lead:** Managing infrastructure and Technical Showcases.
+
+- 🏗️ **Logistics Digital Twin:** Rust, Zenoh, Bevy, Tokio *(In active development)*
+- 🌩️ **AI & Automation**: Engineering agentic workflows and LLM orchestration.
+- ☁️ **Cloud Infrastructure**: Self-hosted VPS, Docker, Caddy.
+- 🛠️ **KAU Tech Lead:** Managing Infrastructure and Technical Showcases.
 
 ### 🛠️ Core Competencies
+
 | Domain | Technologies |
 | :--- | :--- |
-| **Systems & Simulation** | Rust, C#, Docker, Linux (VPS/Self-hosting) |
+| **Systems & Simulation** | Rust, Zenoh, Multi-threading, Docker, Linux (VPS/Self-hosting) |
 | **AI & Automation** | Python, LLM Orchestration, Autonomous Agents |
-| **Game & Rendering** | Unity, Bevy, Data-Oriented Design, Asset Pipelines |
-| **Web & Services** | JavaScript, HTML/CSS, Caddy |
+| **Game & Rendering** | Unity, Bevy, C#, Data-Oriented Design, Asset Pipelines |
+<!-- | **Web & Services** | JavaScript, HTML/CSS, Caddy | --!>

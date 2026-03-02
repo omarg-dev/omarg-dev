@@ -20,7 +20,7 @@ Computer Science Senior specializing in systems architecture, digital twins, and
 - 🏗️ **Logistics Digital Twin:** Rust, Zenoh, Bevy, Tokio *(In active development)*
 - 🌩️ **AI & Automation**: Engineering agentic workflows and LLM orchestration.
 - ☁️ **Cloud Infrastructure**: Self-hosted VPS, Docker, Caddy.
-- 🛠️ **KAU Tech Lead:** Managing Infrastructure and Technical Showcases.
+- 🛠️ **Programming Club Tech Vice Lead:** Managing Infrastructure and Technical Showcases.
 
 ### 🛠️ Core Competencies
 

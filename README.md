@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Computer Science Senior specializing in systems architecture, digital twins, and AI-driven automation. Currently engineering scalable simulations and optimizing intelligent agents.
+Digital Twins Engineer and 4th year CS student at KAU. Specializing in distributed systems, digital twins, and AI-driven automation. Currently engineering Tessera and optimizing intelligent agents.
 
 ### 🔭 Current Focus
 
-- 🏗️ **Logistics Digital Twin:** Rust, Zenoh, Bevy, Tokio *(In active development)*
+- 🏗️ **Tessera Digital Twin:** Rust, Zenoh, Bevy, Tokio *(In active development)*
 - 🌩️ **AI & Automation**: Engineering agentic workflows and LLM orchestration.
 - ☁️ **Cloud Infrastructure**: Self-hosted VPS, Docker, Caddy.
 - 🛠️ **Programming Club Tech Vice Lead:** Managing Infrastructure and Technical Showcases.
@@ -28,5 +28,5 @@ Computer Science Senior specializing in systems architecture, digital twins, and
 | :--- | :--- |
 | **Systems & Simulation** | Rust, Zenoh, Multi-threading, Docker, Linux (VPS/Self-hosting) |
 | **AI & Automation** | Python, LLM Orchestration, Autonomous Agents |
-| **Game & Rendering** | Unity, Bevy, C#, Data-Oriented Design, Asset Pipelines |
+| **Engines & Rendering** | Unity, Bevy, C#, Data-Oriented Design, Asset Pipelines |
 <!-- | **Web & Services** | JavaScript, HTML/CSS, Caddy | --!>
